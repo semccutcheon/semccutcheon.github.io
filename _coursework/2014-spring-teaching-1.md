@@ -1,8 +1,8 @@
 ---
 title: "Teaching experience 1"
-collection: testing
+collection: courswork
 type: "Undergraduate course"
-permalink: /testing/2014-spring-testing-1
+permalink: /coursework/2014-spring-testing-1
 venue: "University 1, Department"
 date: 2014-01-01
 location: "City, Country"

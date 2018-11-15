@@ -170,7 +170,7 @@ kramdown:
 
 # Collections
 collections:
-  testing:
+  coursework:
     output: true
     permalink: /:collection/:path/
   projects:
@@ -198,10 +198,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _testing
+  # _coursework
   - scope:
       path: ""
-      type: testing
+      type: coursework
     values:
       layout: single
       author_profile: true
